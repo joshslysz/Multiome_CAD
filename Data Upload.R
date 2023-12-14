@@ -1,1 +1,5 @@
-library("Seurat")
+library(Seurat)
+library(Signac)
+library(EnsDb.Hsapiens.v86)
+library(dplyr)
+library(ggplot2)
